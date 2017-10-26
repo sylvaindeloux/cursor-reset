@@ -1,0 +1,26 @@
+html,
+body {
+  cursor: default;
+}
+
+textarea,
+input[type="text"],
+code {
+  cursor: text;
+}
+
+a,
+label,
+button,
+input[type="button"],
+input[type="radio"],
+input[type="submit"],
+input[type="checkbox"] {
+  cursor: pointer;
+}
+
+button[disabled],
+input[disabled],
+select[disabled] {
+  cursor: default;
+}

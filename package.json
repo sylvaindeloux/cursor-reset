@@ -1,0 +1,21 @@
+{
+  "name": "cursor-reset",
+  "version": "1.0.0",
+  "description": "A tiny CSS reset for cursor",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sylvaindeloux/cursor-reset.git"
+  },
+  "keywords": [
+    "cursor",
+    "pointer",
+    "css",
+    "reset"
+  ],
+  "author": "Sylvain Deloux <github@eax.fr>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/sylvaindeloux/cursor-reset/issues"
+  },
+  "homepage": "https://github.com/sylvaindeloux/cursor-reset#readme"
+}
