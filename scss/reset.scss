@@ -1,12 +1,15 @@
 html,
 body {
-  cursor: default;
+  cursor: default !important;
 }
 
 textarea,
 input[type="text"],
+input[type="url"],
+input[type="email"],
+input[type="search"],
 code {
-  cursor: text;
+  cursor: text !important;
 }
 
 a,
@@ -15,12 +18,14 @@ button,
 input[type="button"],
 input[type="radio"],
 input[type="submit"],
+input[type="reset"],
+input[type="file"],
 input[type="checkbox"] {
-  cursor: pointer;
+  cursor: pointer !important;
 }
 
 button[disabled],
 input[disabled],
 select[disabled] {
-  cursor: default;
+  cursor: default !important;
 }
